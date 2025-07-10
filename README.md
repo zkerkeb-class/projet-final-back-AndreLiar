@@ -36,7 +36,7 @@ Fonctionnalités clés :
 - 🔒 Routes protégées nécessitant un email vérifié
 - 🏠 Tableau de bord React pour accéder à Analyse, Infos, Historique et Upgrade
 - ✅ Conforme RGPD
-
+-video pour showcase ajout changement langue et themes:https://youtu.be/mlXTOQqAN6M 
 ---
 
 ## 👤 Utilisateurs Cibles
